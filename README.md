@@ -27,6 +27,10 @@
 
 ## Usage
 
+<p align="center">
+    <i>Testing all routes using Insomnia</i>
+</p>
+
 <br>
 <p align="center">
     <img src="./assets/img/routes2.PNG" alt="screenshot of application" height="600px">
