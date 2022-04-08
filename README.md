@@ -3,7 +3,7 @@
 
 ## Description
 
-- A back end for an e-commerce website that uses a SQL database.
+- A back end for an e-commerce website that uses a MySQL database.
 - Built using the following technologies:
     - Node.js
     - Express.js
