@@ -1,4 +1,4 @@
-# E-Commerce Back End
+# E-Commerce Back End Using MySql
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
 ## Description
