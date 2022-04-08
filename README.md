@@ -40,7 +40,7 @@ To start using the application:
 
 https://user-images.githubusercontent.com/97539424/162342975-955a4756-818d-4517-8926-81333f08c707.mp4
 
-
+<br>
 <p align="center">
     <i>Walkthrough video - Testing routes in Insomnia</i>
 </p>
