@@ -30,7 +30,7 @@
 To start using the application:
 1. Create the development database and seed it with test data:
     - Login to MySQL and run the schema.
-    - In the terminal, enter ```npm run seed``` to seed the database wiith data.
+    - In the terminal, enter ```npm run seed``` to seed the database with data.
 2. Enter ```npm start``` to start running the application.
 
 <br>
@@ -39,6 +39,16 @@ To start using the application:
 </p>
 
 https://user-images.githubusercontent.com/97539424/162342975-955a4756-818d-4517-8926-81333f08c707.mp4
+
+
+<p align="center">
+    <i>Walkthrough video - Testing routes in Insomnia</i>
+</p>
+<br>
+
+https://user-images.githubusercontent.com/97539424/162343054-3c453625-eb5d-4029-9747-c2448b8c6ec6.mp4
+
+<br>
 
 <br>
 <p align="center">
@@ -50,16 +60,6 @@ https://user-images.githubusercontent.com/97539424/162342975-955a4756-818d-4517-
 <p align="center">
     <img src="./assets/img/routes.PNG" alt="screenshot of application" height="450px">
 </p>
-<br>
-
-
-<p align="center">
-    <i>Walkthrough video - Testing routes in Insomnia</i>
-</p>
-<br>
-
-https://user-images.githubusercontent.com/97539424/162343054-3c453625-eb5d-4029-9747-c2448b8c6ec6.mp4
-
 <br>
 
 ## License
