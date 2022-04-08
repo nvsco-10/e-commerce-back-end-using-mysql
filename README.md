@@ -33,9 +33,12 @@ To start using the application:
     - In the terminal, enter ```npm run seed``` to seed the database wiith data.
 2. Enter ```npm start``` to start running the application.
 
+<br>
 <p align="center">
-    <i>Testing all routes using Insomnia</i>
+    <i>Walkthrough - Starting the app</i>
 </p>
+
+https://user-images.githubusercontent.com/97539424/162342975-955a4756-818d-4517-8926-81333f08c707.mp4
 
 <br>
 <p align="center">
@@ -51,13 +54,11 @@ To start using the application:
 
 
 <p align="center">
-    <i>Walkthrough video</i>
+    <i>Walkthrough video - Testing routes in Insomnia</i>
 </p>
 <br>
 
-
-<!-- add video link -->
-
+https://user-images.githubusercontent.com/97539424/162343054-3c453625-eb5d-4029-9747-c2448b8c6ec6.mp4
 
 <br>
 
