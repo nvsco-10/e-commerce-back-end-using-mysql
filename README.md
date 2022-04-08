@@ -15,17 +15,23 @@
 
 ## Installation
 
-* To use this application, you need to have Node.js installed.
+* To use this application, you need to have Node.js and MySQL installed.
 
 * To run the app:
     1. Clone this repository.
     2. Open up your terminal, navigate to the folder path, and enter the following command to install all dependencies:<br>
     ```npm i```
-    3. Enter ```npm start``` to start running the application.
+    3. Create an environment variable(.env) file and add your MySQL username and MySQL password. A sample .env file is provided.
 
 <br>
 
 ## Usage
+
+To start using the application:
+1. Create the development database and seed it with test data:
+    - Login to MySQL and run the schema.
+    - In the terminal, enter ```npm run seed``` to seed the database wiith data.
+2. Enter ```npm start``` to start running the application.
 
 <p align="center">
     <i>Testing all routes using Insomnia</i>
@@ -33,13 +39,13 @@
 
 <br>
 <p align="center">
-    <img src="./assets/img/routes2.PNG" alt="screenshot of application" height="600px">
+    <img src="./assets/img/routes2.PNG" alt="screenshot of application" height="500px">
 </p>
 <br>
 
 <br>
 <p align="center">
-    <img src="./assets/img/routes.PNG" alt="screenshot of application" height="500px">
+    <img src="./assets/img/routes.PNG" alt="screenshot of application" height="450px">
 </p>
 <br>
 
